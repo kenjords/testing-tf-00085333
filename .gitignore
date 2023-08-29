@@ -1,0 +1,11 @@
+cacerts/
+csr/
+out/
+terraform.lock.hcl
+kenneth.jordan*
+tf.out
+*.tfstate
+*.tfstate.*
+.terraform/
+.terrafrom.lock.hcl/
+.terraform*
